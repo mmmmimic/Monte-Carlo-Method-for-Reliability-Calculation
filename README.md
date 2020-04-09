@@ -1,1 +1,1 @@
-# Monte-Carlo-Method-for-Reliability-Calculation
+# Reliability Calculation based on Monte-Carlo Method
