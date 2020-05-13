@@ -1,1 +1,3 @@
-# Reliability Calculation based on Monte-Carlo Method
+可靠性基础的作业
+用蒙特卡洛法计算可靠性的Matlab程序
+
